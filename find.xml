@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SdaCourseApplication'" />
-    <option name="defaultScopeName" value="Project 'SdaCourseApplication'" />
+    <option name="customScope" value="Project 'ContanctsApp'" />
+    <option name="defaultScopeName" value="Project 'ContanctsApp'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'SdaCourseApplication'" />
+    <option name="SEARCH_SCOPE" value="Project 'ContanctsApp'" />
   </component>
 </application>
